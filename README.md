@@ -1,6 +1,6 @@
 ₊⋆Welcome to my space, I hope you enjoy your stay⋆⁺
 =================================
-I'm an aspiring Web Developer and Visual Illustrator based in Laguna, Philippines.
+I'm an aspiring Web and Game Developer with a skill in Visual Design based in Laguna, Philippines.
 * Currently: Creating my own portfolio while learning game development.
 * Fun fact: Leafeon best pokemon!!!
 
